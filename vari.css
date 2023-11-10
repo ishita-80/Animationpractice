@@ -5,7 +5,6 @@
     border:1px solid brown;
     height: 300px;
     width: 300px;
-    
 background-color: green;
 background-color: var(--dark-red);
 }
